@@ -74,14 +74,6 @@ Over the years, I've helped coordinate engineering and delivery across complex p
 
 *These summaries describe professional experience at a high level, not public code repositories or products personally owned by me. Specific clients, product names, and internal implementation details are omitted.*
 
-## 📈 GitHub contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itratjassani/itratjassani/output/github-contributions.svg" alt="Itrat Zehra's GitHub contribution activity, updated automatically" width="100%" />
-</p>
-
-<sub>Generated from my GitHub contribution calendar with an automated workflow. Contributions to private repositories may not be fully reflected.</sub>
-
 ## 💡 From challenge to impact
 
 <p align="center">
