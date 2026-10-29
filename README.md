@@ -47,27 +47,38 @@ My interests span **software architecture, healthcare technology, DevSecOps, dat
 ![Stakeholder Collaboration](https://img.shields.io/badge/Stakeholder-Collaboration-2563EB?style=flat-square)
 ![SDLC](https://img.shields.io/badge/SDLC-Product%20Delivery-7C3AED?style=flat-square)
 
-## 🚀 Selected work
+## 🚀 Featured GitHub projects
 
-Some of the products and problem spaces I've helped deliver. These are **professional experience highlights**, not claims that their source code is public.
+A selection of public repositories reflecting my interests in **data science, intelligent systems, automation, and software engineering**.
 
-| Product / initiative | What it solves | Focus areas |
+| Project | What it explores | Repository |
 | --- | --- | --- |
-| **EBER Connect** | Digitizes clinical workflows, daily monitoring logs, and reporting for dialysis clinics. | Healthcare IT · Compliance workflows · Product delivery |
-| **EBER BioTrack** | Supports biomedical equipment tracking, preventive maintenance, and work-order management. | Asset management · Workflow automation · Engineering coordination |
-| **Alchemain Dash** | Helps teams understand software dependencies, security advisories, and upgrade workflows. | DevSecOps · Software supply-chain security · Developer experience |
-| **Titan Warehousing** | Supports warehouse operations and equipment-integrated workflows. | Warehouse systems · Integration · Process improvement |
+| **Heart Disease Prediction System** | A mobile-oriented predictive analytics concept using data mining models to assess heart-disease risk. | [Explore project](https://github.com/itratjassani/Heart-Disease-Prediction-System) |
+| **Invoice Data Extraction** | Extracting information from handwritten invoices to reduce manual data-entry work. | [Explore project](https://github.com/itratjassani/Data-Extraction-from-Invoice-Images) |
+| **Social Media Sentiment Analysis** | Analyzing text sentiment across positive, neutral, and negative categories. | [Explore project](https://github.com/itratjassani/Sentiment-Analysis-of-Twitter-Data) |
+| **Agentic AI Engineering** | Educational exploration of AI agents and associated engineering patterns. | [Explore repository](https://github.com/itratjassani/agents) |
+| **Data Science Explorations** | Coursework and experiments covering data science concepts and tools. | [Explore repository](https://github.com/itratjassani/data-science-course) |
 
-*Client and company-owned projects are described at a high level to respect confidentiality and intellectual property.*
+> Some repositories are educational or experimental projects rather than production-ready applications.
+
+## 💼 Professional projects & product delivery
+
+Over the years, I've helped coordinate engineering and delivery across complex products. The examples below are intentionally **anonymized**; source code and client-specific details are not included.
+
+| Industry / initiative | Product challenge | My focus |
+| --- | --- | --- |
+| **Healthcare Compliance & Clinical Operations Platform** | Digitizing clinical monitoring, staff verification, and reporting workflows. | Technical project leadership · Agile delivery · Cross-functional coordination |
+| **Biomedical Asset & Maintenance Management System** | Managing equipment inventories, work orders, scheduled maintenance, and operational reporting. | Product planning · Workflow design · Engineering delivery |
+| **Software Supply Chain Security Platform** | Improving visibility into dependencies, security advisories, and software upgrade processes. | Developer workflows · Stakeholder alignment · Delivery planning |
+| **Enterprise Warehouse Automation Solution** | Streamlining warehouse workflows and integrating operational equipment with software systems. | Systems integration coordination · Process improvement · Delivery management |
+
+*These summaries describe professional experience at a high level, not public code repositories or products personally owned by me. Specific clients, product names, and internal implementation details are omitted.*
 
 ## 📊 GitHub snapshot
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itratjassani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itratjassani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Most-used public GitHub languages" />
-</div>
+My public repositories reflect interests in **software engineering, intelligent systems, data science, and automation**. Some of my professional contributions are in private or client-owned repositories and are not visible in public GitHub statistics.
 
-<sub>These cards reflect public GitHub data and may not capture contributions in private or client-owned repositories. Third-party cards can occasionally be unavailable.</sub>
+[Explore my GitHub repositories](https://github.com/itratjassani?tab=repositories) · [View my contribution activity](https://github.com/itratjassani)
 
 ## 💭 How I approach technology
 
