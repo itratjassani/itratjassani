@@ -80,6 +80,16 @@ My public repositories reflect interests in **software engineering, intelligent 
 
 [Explore my GitHub repositories](https://github.com/itratjassani?tab=repositories) · [View my contribution activity](https://github.com/itratjassani)
 
+## 📈 Contribution activity
+
+<div align="center">
+  <a href="https://github.com/itratjassani">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itratjassani&bg_color=0D1117&color=C9D1D9&title_color=A855F7&line=A855F7&point=22D3EE&area=true&area_color=6D28D9&hide_border=true&custom_title=My%20GitHub%20Activity" alt="Itrat Zehra's GitHub contribution activity graph" />
+  </a>
+</div>
+
+[View my contributions directly on GitHub](https://github.com/itratjassani) · The interactive contribution calendar is available on my GitHub profile. This activity graph is provided by a third-party service and may occasionally be unavailable.
+
 ## 💭 How I approach technology
 
 ```text
