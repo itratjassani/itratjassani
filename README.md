@@ -74,33 +74,21 @@ Over the years, I've helped coordinate engineering and delivery across complex p
 
 *These summaries describe professional experience at a high level, not public code repositories or products personally owned by me. Specific clients, product names, and internal implementation details are omitted.*
 
-## 📊 GitHub snapshot
+## 📈 GitHub contributions
 
-My public repositories reflect interests in **software engineering, intelligent systems, data science, and automation**. Some of my professional contributions are in private or client-owned repositories and are not visible in public GitHub statistics.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itratjassani/itratjassani/output/github-contributions.svg" alt="Itrat Zehra's GitHub contribution activity, updated automatically" width="100%" />
+</p>
 
-[Explore my GitHub repositories](https://github.com/itratjassani?tab=repositories) · [View my contribution activity](https://github.com/itratjassani)
+<sub>Generated from my GitHub contribution calendar with an automated workflow. Contributions to private repositories may not be fully reflected.</sub>
 
-## 📈 Contribution activity
+## 💡 From challenge to impact
 
-<div align="center">
-  <a href="https://github.com/itratjassani">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itratjassani&bg_color=0D1117&color=C9D1D9&title_color=A855F7&line=A855F7&point=22D3EE&area=true&area_color=6D28D9&hide_border=true&custom_title=My%20GitHub%20Activity" alt="Itrat Zehra's GitHub contribution activity graph" />
-  </a>
-</div>
+<p align="center">
+  <img src="assets/approach.svg" alt="My approach: discover the challenge, align the people, shape the solution, deliver and iterate, measure the impact" width="100%" />
+</p>
 
-[View my contributions directly on GitHub](https://github.com/itratjassani) · The interactive contribution calendar is available on my GitHub profile. This activity graph is provided by a third-party service and may occasionally be unavailable.
-
-## 💭 How I approach technology
-
-```text
-Understand the problem  →  Align people & priorities
-          ↓
-Design the approach     →  Build, test & iterate
-          ↓
-Deliver real value      →  Learn & improve
-```
-
-I believe the best outcomes happen when **engineering depth, product thinking, and collaborative leadership** work together.
+I connect **technical depth** with **product thinking and people-first leadership**—from understanding a challenge to delivering something useful.
 
 ## 🌐 Let's connect
 
